@@ -1,0 +1,67 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: url(css/grfx/bg.png);
+	background-repeat: repeat-x;
+	background-size: auto;}
+
+section.Kopje1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 772px;
+    height: auto;
+    border: 0px white;
+    padding: 10px;
+    background-color: white;
+
+
+
+}
+a{color: white;}
+
+img.foto {
+    float:left;
+   margin: 10px;
+}
+
+header{
+	background-image: url(css/grfx/header.jpg);
+	margin: 3px;
+	height:272px ;
+	width: 58%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+header.header1{background-image: url(css/grfx/header.jpg);
+	margin: 3px;
+	height:272px ;
+	width: 58%;
+	margin-left: auto;
+	margin-right: auto;}
+li{
+	display: inline-block;
+	margin-top: 165px;
+	text-align: center;
+	padding-right: 20px;
+}
+img.foto{float: left;
+margin: 10px;}
+
+
+img.foto2{float:right;
+   margin: 10px;}
+
+ img.foto3{float:left;
+   margin: 10px;}  
+
+ a:hover{
+ 	color: black;
+ }
+ a{color: white;
+ text-decoration: none;
+ padding-left: 10px;
+ font-size: 80%;

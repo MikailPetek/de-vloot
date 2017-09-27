@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: url(css/grfx/bg.png);
+	background-repeat: repeat-x;
+	background-size: auto;
+
+}
+img.foto1 {
+    float:left;
+    margin: 10px;
+}
+
+header{
+	background-image: url(css/grfx/header.jpg);
+	margin: 3px;
+	height:272px ;
+	width: 58%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+li{
+	display: inline-block;
+	margin-top: 165px;
+	text-align: center;
+	padding-right: 20px;
+}
+a{color: white;
+ text-decoration: none;
+ padding-left: 10px;
+ font-size: 80%;
+
+ }
+ a:hover{
+ 	color: black;
+ }
+
+section.Kopje1{background-color: white;
+margin-left: auto;
+margin-right: auto;
+width: 58%;
+
+}
+img.foto3{float: left;
+margin: 10px;}
+img.foto2{float: right;
+margin: 10px;}
