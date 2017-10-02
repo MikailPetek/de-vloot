@@ -7,6 +7,7 @@ body{
 	background-image: url(css/grfx/bg.png);
 	background-repeat: repeat-x;
 	background-size: auto;
+	font-family: tahoma;
 
 }
 img.foto1 {
@@ -14,10 +15,12 @@ img.foto1 {
     margin: 10px;
 }
 
+.titel{margin-left: 10px;
+}
 header{
 	background-image: url(css/grfx/header.jpg);
-	margin: 3px;
-	height:272px ;
+	margin: 0px;
+	height:270px ;
 	width: 58%;
 	margin-left: auto;
 	margin-right: auto;
@@ -39,10 +42,14 @@ a{color: white;
  	color: black;
  }
 
-section.Kopje1{background-color: white;
-margin-left: auto;
-margin-right: auto;
-width: 58%;
+section.Kopje1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 764px;
+    height: auto;
+    border: 0px white;
+    padding: 10px;
+    background-color: white;
 
 }
 img.foto3{float: left;

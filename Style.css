@@ -7,12 +7,15 @@
 body{
 	background-image: url(css/grfx/bg.png);
 	background-repeat: repeat-x;
-	background-size: auto;}
+	background-size: auto;
+	font-family: tahoma;
+}
+
 
 section.Kopje1{
     margin-left: auto;
     margin-right: auto;
-    width: 772px;
+    width: 764px;
     height: auto;
     border: 0px white;
     padding: 10px;
@@ -21,6 +24,10 @@ section.Kopje1{
 
 
 }
+.titel{margin-left: 10px;
+}
+}
+
 a{color: white;}
 
 img.foto {
@@ -30,18 +37,18 @@ img.foto {
 
 header{
 	background-image: url(css/grfx/header.jpg);
-	margin: 3px;
-	height:272px ;
+	margin: 0px;
+	height:268px ;
 	width: 58%;
 	margin-left: auto;
 	margin-right: auto;
 	}
 header.header1{background-image: url(css/grfx/header.jpg);
-	margin: 3px;
+	margin: 0px;
 	height:272px ;
-	width: 58%;
-	margin-left: auto;
-	margin-right: auto;}
+	width: 60%;
+	margin-left:0px;
+	margin-right: 0px;}
 li{
 	display: inline-block;
 	margin-top: 165px;
